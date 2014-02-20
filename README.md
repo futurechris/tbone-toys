@@ -1,4 +1,3 @@
-TBoNe-Toys
+tbone-toys
 ==========
-
-Interactive prototypes ("toys") allowing readers to experiment with ideas under discussion on TheBookOfNext.com
+Code behind The Book of Next's interactive "toys"
